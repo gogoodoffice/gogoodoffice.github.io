@@ -1,0 +1,34 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/_next/static/chunks/0cn0m3403xmpp.js"
+c:"/_next/static/chunks/35xibgaljuc2v.js"
+d:I[22016,["$b","$c"],""]
+e:I[61874,["$b","$c"],"QuoteForm"]
+f:I[97367,["$4"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$4"],"$15"]
+17:I[27201,["$4"],"IconMark"]
+:HL["/img/kit/icons/print-chat.webp","image"]
+:HL["/img/kit/icons/print-phone.webp","image"]
+:HL["/img/kit/icons/print-map-pin.webp","image"]
+:HL["/_next/static/chunks/1xa-lsagic9sn.css","style"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","section",null,{"className":"page-head pressable","aria-labelledby":"page-h1","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"หน้าแรก\",\"item\":\"https://gogoodsolutions.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ติดต่อ\"}]}"}}],["$","div",null,{"className":"wrap","children":[["$","nav",null,{"aria-label":"breadcrumb","children":["$","ol",null,{"className":"crumbs","children":[["$","li","0",{"children":["$","$Ld",null,{"href":"/","children":"หน้าแรก"}]}],["$","li","1",{"children":["$","span",null,{"aria-current":"page","children":"ติดต่อ"}]}]]}]}],["$","p",null,{"className":"lab stk","children":"โยนไอเดียมาได้เลย"}],["$","h1",null,{"id":"page-h1","children":[["$","$3","0",{"children":[false,[["$","$3","0",{"children":[false,["$","span",null,{"className":"nw","children":"ส่งรายละเอียดงาน"}]]}],["$","$3","1",{"children":[["$","wbr",null,{}],["$","span",null,{"className":"nw","children":"ให้เรา"}]]}]]]}]]}],["$","p",null,{"className":"lede","children":"บอกงานคร่าวๆ ก็พอ: ทำอะไร จำนวนเท่าไร ใช้วันไหน งบประมาณ ทีมจะส่งแบบและราคาให้ดู"}],"$undefined"]}]]}],["$","section",null,{"className":"pg-contact pressable","aria-labelledby":"pg-h-form","children":["$","div",null,{"className":"wrap pg-contact-grid","children":[["$","div",null,{"children":[["$","h2",null,{"className":"sr","id":"pg-h-form","children":"ฟอร์มขอใบเสนอราคา"}],["$","$Le",null,{}]]}],["$","aside",null,{"className":"pg-side","aria-label":"ติดต่อตรง","children":[["$","div",null,{"className":"pg-direct","children":[["$","a",null,{"className":"btn btn-line","href":"https://lin.ee/6AUHgk2H","children":[["$","img",null,{"className":"ico","src":"/img/kit/icons/print-chat.webp","width":160,"height":152,"alt":""}],"ทักไลน์ GoGood"]}],["$","a",null,{"className":"btn btn-ghost","href":"tel:+66631099498","children":[["$","img",null,{"className":"ico","src":"/img/kit/icons/print-phone.webp","width":160,"height":182,"alt":""}],"โทร ","063-109-9498"]}]]}],["$","div",null,{"className":"co","children":[["$","p",null,{"className":"co-name","children":"บริษัท โกกู๊ด โซลูชั่นส์ จำกัด"}],["$","p",null,{"children":["เลขทะเบียนนิติบุคคล ","0105568008832"]}],["$","p",null,{"className":"co-ico","children":[["$","img",null,{"className":"ico","src":"/img/kit/icons/print-map-pin.webp","width":160,"height":224,"alt":""}],"ลาดพร้าว กรุงเทพฯ"]}],["$","p",null,{"className":"co-gap","children":["อีเมล ",["$","a",null,{"href":"mailto:gogood.office@gmail.com","children":"gogood.office@gmail.com"}]]}],["$","p",null,{"children":["Facebook ",["$","a",null,{"href":"https://www.facebook.com/profile.php?id=61573158179444","children":"GOGOOD Solutions"}]]}]]}]]}]]}]}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1xa-lsagic9sn.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/35xibgaljuc2v.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$9"}}]]
+2:[["children",{"s":"contact","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(th)","h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#EEEBE3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ติดต่อและขอใบเสนอราคา | GoGood Solutions"}],["$","meta","1",{"name":"description","content":"ส่งรายละเอียดงานให้ GoGood Solutions ทาง LINE โทร หรืออีเมล บอกงาน จำนวน และวันที่ใช้ ทีมส่งแบบและราคาให้ดู"}],["$","link","2",{"rel":"canonical","href":"https://gogoodsolutions.com/contact/"}],["$","meta","3",{"property":"og:title","content":"ติดต่อและขอใบเสนอราคา | GoGood Solutions"}],["$","meta","4",{"property":"og:description","content":"ส่งรายละเอียดงานให้ GoGood Solutions ทาง LINE โทร หรืออีเมล บอกงาน จำนวน และวันที่ใช้ ทีมส่งแบบและราคาให้ดู"}],["$","meta","5",{"property":"og:site_name","content":"GoGood Solutions"}],["$","meta","6",{"property":"og:locale","content":"th_TH"}],["$","meta","7",{"property":"og:image","content":"https://gogoodsolutions.com/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"GoGood Solutions: โลโก้และภาพงานจริง"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ติดต่อและขอใบเสนอราคา | GoGood Solutions"}],["$","meta","14",{"name":"twitter:description","content":"ส่งรายละเอียดงานให้ GoGood Solutions ทาง LINE โทร หรืออีเมล บอกงาน จำนวน และวันที่ใช้ ทีมส่งแบบและราคาให้ดู"}],["$","meta","15",{"name":"twitter:image","content":"https://gogoodsolutions.com/og-default.jpg"}],["$","meta","16",{"name":"twitter:image:alt","content":"GoGood Solutions: โลโก้และภาพงานจริง"}],["$","meta","17",{"name":"twitter:image:width","content":"1200"}],["$","meta","18",{"name":"twitter:image:height","content":"630"}],["$","link","19",{"rel":"icon","href":"/icon.png?icon.37gd3jtkec93o.png","sizes":"512x512","type":"image/png"}],["$","link","20",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.31t9pifwdl6em.png","sizes":"180x180","type":"image/png"}],["$","$L17","21",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$9"}},"a":"$@19","u":"$@1a","b":"9oh91XLd8ebHoM1xBp_RA"}
+11:null
+1a:true
+9:300
+9:C
+19:0
+7:"$undefined"
+18:"$undefined"
+12:"$undefined"
