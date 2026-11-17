@@ -3,7 +3,7 @@
 :HL["/_next/static/chunks/1mnuflh1mjzt5.css","style"]
 :HL["/_next/static/chunks/402v3e0lvorhl.css","style"]
 :HL["/_next/static/chunks/1xa-lsagic9sn.css","style"]
-:HL["/_next/static/chunks/3y9l1vsnyalwg.css","style"]
+:HL["/_next/static/chunks/1amqofo93-pgz.css","style"]
 :HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ce92d22f98cba196-s.p.3ok2djvs6w93k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -15,4 +15,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"mont-mekha","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"work","h":131136,"c":"$Q3"}]]
 1:[["children",{"s":"(th)","h":131120,"c":"$Q2"}]]
-0:{"b":"M28yW7fT0GyqviFfGfJ66","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"IUHy8Kw-j-rn0r-opVsTO","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
